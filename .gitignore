@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Smart Calculator (Go)/*
+!/Smart Calculator (Go)/task/
+/Smart Calculator (Go)/task/*
+!/Smart Calculator (Go)/task/main.go
